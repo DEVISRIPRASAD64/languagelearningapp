@@ -1,0 +1,66 @@
+.page2-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-paleturquoise);
+  width: 430px;
+  height: 932px;
+}
+.image-2-icon {
+  position: absolute;
+  top: 68px;
+  left: 27px;
+  border-radius: var(--br-16xl);
+  width: 376px;
+  height: 621px;
+  object-fit: cover;
+}
+.practicing {
+  color: var(--color-springgreen);
+}
+.the-best-way-container {
+  position: absolute;
+  top: 689px;
+  left: 22px;
+  line-height: 48px;
+  display: inline-block;
+  width: 386px;
+}
+.page2-item {
+  position: absolute;
+  top: 846px;
+  left: 49px;
+  width: 331px;
+  height: 64px;
+}
+.lets-go,
+.page2-inner {
+  position: absolute;
+  top: 849px;
+}
+.page2-inner {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-black);
+  left: 55px;
+  border-radius: var(--br-xl);
+  width: 320px;
+  height: 57px;
+}
+.lets-go {
+  left: 161px;
+  line-height: 48px;
+  color: var(--color-white);
+}
+.page2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

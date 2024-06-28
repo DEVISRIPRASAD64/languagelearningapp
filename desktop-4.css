@@ -1,0 +1,58 @@
+.so-lets-go2 {
+  position: absolute;
+  top: 669px;
+  left: 37px;
+  font-size: var(--font-size-17xl);
+}
+.were-going-on-a-trip-to-japan {
+  margin: 0;
+}
+.learn-japanese-through {
+  font-weight: 500;
+}
+.real-practice-the-quickest-a2 {
+  margin: 0;
+  font-size: var(--font-size-17xl);
+}
+.were-going-on-container2 {
+  position: absolute;
+  top: 727px;
+  left: 36px;
+  font-family: var(--font-red-hat-display);
+}
+.desktop-4-child {
+  position: absolute;
+  top: 928px;
+  left: 59px;
+  border-radius: var(--br-xl);
+  background-color: #3ac4ff;
+  width: 421px;
+  height: 70px;
+  cursor: pointer;
+}
+.continue2 {
+  position: absolute;
+  top: 943px;
+  left: 200px;
+  color: var(--color-white);
+}
+.image-2-icon1 {
+  position: absolute;
+  top: 71px;
+  left: 27px;
+  border-radius: var(--br-31xl);
+  width: 501px;
+  height: 556px;
+  object-fit: cover;
+}
+.desktop-4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-readex-pro);
+}

@@ -1,0 +1,128 @@
+.page4-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-paleturquoise);
+  width: 430px;
+  height: 932px;
+}
+.how-much-english {
+  position: absolute;
+  top: 66px;
+  left: 23px;
+  font-size: var(--font-size-5xl);
+  line-height: 48px;
+}
+.page4-inner,
+.page4-item {
+  border: 0;
+  outline: 0;
+  background-color: #9eb054;
+  position: absolute;
+  top: 169px;
+  left: 22px;
+  border-radius: var(--br-xl);
+  width: 380px;
+  height: 75px;
+  cursor: pointer;
+}
+.page4-inner {
+  background-color: #ae71fc;
+  top: 463px;
+}
+.i-speak-with {
+  position: absolute;
+  top: 477px;
+  left: 127px;
+  line-height: 49px;
+}
+.page4-child1,
+.page4-child2 {
+  border: 0;
+  outline: 0;
+  position: absolute;
+  border-radius: var(--br-xl);
+  width: 380px;
+  height: 75px;
+  cursor: pointer;
+}
+.page4-child1 {
+  background-color: var(--color-violet-100);
+  top: 365px;
+  left: 23px;
+}
+.page4-child2 {
+  background-color: #35feaa;
+  top: 267px;
+  left: 22px;
+}
+.page4-child3 {
+  position: absolute;
+  top: 272px;
+  left: 45px;
+  border-radius: 50%;
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}
+.im-a-total {
+  position: absolute;
+  top: 183px;
+  left: 89px;
+  line-height: 49px;
+  display: inline-block;
+  width: 225px;
+  height: 48px;
+}
+.page4-child4 {
+  position: absolute;
+  top: 174px;
+  left: 45px;
+  border-radius: 50%;
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}
+.i-can-have,
+.i-understand-simple {
+  position: absolute;
+  top: 281px;
+  left: 127px;
+  line-height: 48px;
+}
+.i-can-have {
+  top: 379px;
+}
+.page4-child5,
+.page4-child6,
+.page4-child7 {
+  position: absolute;
+  top: 370px;
+  left: 45px;
+  border-radius: 50%;
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}
+.page4-child6,
+.page4-child7 {
+  top: 468px;
+}
+.page4-child7 {
+  top: 21px;
+  left: 18px;
+  width: 40px;
+  height: 40px;
+}
+.page4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

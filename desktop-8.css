@@ -1,0 +1,57 @@
+.desktop-8-child {
+  position: absolute;
+  top: 97px;
+  left: 23px;
+  width: 496px;
+  height: 544px;
+  object-fit: cover;
+}
+.so-lets-go6 {
+  position: absolute;
+  top: 678px;
+  left: 34px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-readex-pro);
+}
+.learn-korean {
+  font-weight: 500;
+}
+.korea-so-you-can-learn-korea {
+  margin: 0;
+}
+.the-quickest {
+  font-family: var(--font-red-hat-display);
+}
+.desktop-8-item,
+.were-going-on-container6 {
+  position: absolute;
+  top: 735px;
+  left: 34px;
+}
+.desktop-8-item {
+  top: 929px;
+  left: 60px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-deepskyblue-300);
+  width: 422px;
+  height: 70px;
+  cursor: pointer;
+}
+.continue6 {
+  position: absolute;
+  top: 943px;
+  left: 204px;
+  font-weight: 500;
+  color: var(--color-white);
+}
+.desktop-8 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-red-hat-display);
+}

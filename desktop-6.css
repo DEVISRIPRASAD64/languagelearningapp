@@ -1,0 +1,58 @@
+.so-lets-go4 {
+  position: absolute;
+  top: 670px;
+  left: 42px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-readex-pro);
+}
+.learn-german-through {
+  font-weight: 500;
+}
+.so-you-can-learn-german-throug {
+  margin: 0;
+}
+.the-quickest-and3 {
+  font-family: var(--font-red-hat-display);
+}
+.desktop-6-child,
+.were-going-on-container4 {
+  position: absolute;
+  top: 726px;
+  left: 42px;
+}
+.desktop-6-child {
+  top: 931px;
+  left: 60px;
+  border-radius: var(--br-xl);
+  background-color: #34c2ff;
+  width: 422px;
+  height: 71px;
+  cursor: pointer;
+}
+.continue4 {
+  position: absolute;
+  top: 946px;
+  left: 204px;
+  font-weight: 500;
+  color: var(--color-white);
+}
+.image-4-icon {
+  position: absolute;
+  top: 62px;
+  left: 28px;
+  border-radius: var(--br-31xl);
+  width: 486px;
+  height: 556px;
+  object-fit: cover;
+}
+.desktop-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-red-hat-display);
+}

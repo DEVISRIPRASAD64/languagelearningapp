@@ -1,0 +1,54 @@
+.so-lets-go {
+  margin: 0;
+}
+.so-lets-go-container {
+  top: 674px;
+  left: 33px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-readex-pro);
+  width: 358px;
+  height: 45px;
+}
+.continue,
+.desktop-2-child,
+.so-lets-go-container {
+  position: absolute;
+  display: none;
+}
+.desktop-2-child {
+  top: 930px;
+  left: 56px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-deepskyblue-400);
+  width: 422px;
+  height: 70px;
+}
+.continue {
+  top: 944px;
+  left: 194px;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.learn-spanish-through {
+  font-weight: 500;
+}
+.the-quickest-and {
+  font-family: var(--font-red-hat-display);
+}
+.were-going-on-container {
+  position: absolute;
+  top: 731px;
+  left: 33px;
+  display: none;
+}
+.desktop-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-red-hat-display);
+}

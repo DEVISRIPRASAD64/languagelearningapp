@@ -1,0 +1,57 @@
+.so-lets-go3 {
+  position: absolute;
+  top: 668px;
+  left: 49px;
+  font-size: var(--font-size-17xl);
+}
+.learn-italian-through {
+  font-weight: 500;
+}
+.so-you-can-learn-italian-throu {
+  margin: 0;
+}
+.the-quickest-and2,
+.were-going-on-container3 {
+  font-family: var(--font-red-hat-display);
+}
+.were-going-on-container3 {
+  position: absolute;
+  top: 725px;
+  left: 49px;
+}
+.desktop-5-child {
+  position: absolute;
+  top: 931px;
+  left: 58px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-deepskyblue-300);
+  width: 423px;
+  height: 71px;
+  cursor: pointer;
+}
+.continue3 {
+  position: absolute;
+  top: 947px;
+  left: 202px;
+  color: var(--color-white);
+}
+.image-3-icon {
+  position: absolute;
+  top: 58px;
+  left: 30px;
+  border-radius: var(--br-31xl);
+  width: 479px;
+  height: 556px;
+  object-fit: cover;
+}
+.desktop-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-readex-pro);
+}

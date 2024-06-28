@@ -1,0 +1,127 @@
+.page6-child {
+  position: absolute;
+  top: 21px;
+  left: 18px;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.how-old-are {
+  position: absolute;
+  top: 93px;
+  left: 114px;
+  font-size: var(--font-size-5xl);
+  line-height: 49px;
+}
+.page6-item {
+  border: 0;
+  outline: 0;
+  background-color: #f5b2ae;
+  position: absolute;
+  top: 184px;
+  left: 27px;
+  border-radius: var(--br-xl);
+  width: 375px;
+  height: 70px;
+  cursor: pointer;
+}
+.page6-inner {
+  background-color: #b559fd;
+  top: 724px;
+  cursor: pointer;
+}
+.page6-child1,
+.page6-child2,
+.page6-child3,
+.page6-child4,
+.page6-child5,
+.page6-inner {
+  border: 0;
+  outline: 0;
+  position: absolute;
+  left: 27px;
+  border-radius: var(--br-xl);
+  width: 375px;
+  height: 70px;
+}
+.page6-child1 {
+  background-color: #ff91ed;
+  top: 634px;
+  cursor: pointer;
+}
+.page6-child2,
+.page6-child3,
+.page6-child4,
+.page6-child5 {
+  background-color: #72f1c3;
+  top: 274px;
+}
+.page6-child3,
+.page6-child4,
+.page6-child5 {
+  background-color: #fdf776;
+  top: 364px;
+}
+.page6-child4,
+.page6-child5 {
+  background-color: #becbf8;
+  top: 454px;
+  cursor: pointer;
+}
+.page6-child5 {
+  background-color: #fb9a63;
+  top: 544px;
+}
+.from-13-to,
+.to-24-years,
+.to-34-years {
+  position: absolute;
+  top: 195px;
+  left: 103px;
+  line-height: 49px;
+}
+.to-24-years,
+.to-34-years {
+  top: 284px;
+  left: 126px;
+}
+.to-34-years {
+  top: 374px;
+  left: 123px;
+}
+.more-than-65,
+.to-44-years,
+.to-54-years,
+.to-65-years {
+  position: absolute;
+  top: 464px;
+  left: 122px;
+  line-height: 49px;
+}
+.more-than-65,
+.to-54-years,
+.to-65-years {
+  top: 554px;
+}
+.more-than-65,
+.to-65-years {
+  top: 645px;
+  left: 123px;
+}
+.more-than-65 {
+  top: 734px;
+  left: 100px;
+}
+.page6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-paleturquoise);
+  height: 932px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

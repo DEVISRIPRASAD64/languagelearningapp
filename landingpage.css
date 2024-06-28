@@ -1,0 +1,111 @@
+.courses {
+  position: absolute;
+  top: 38px;
+  left: 12px;
+  font-size: var(--font-size-13xl);
+}
+.wednesday-jun {
+  margin: 0;
+}
+.wednesday-jun-container {
+  position: absolute;
+  top: 16px;
+  left: 12px;
+  color: rgba(0, 0, 0, 0.52);
+  display: inline-block;
+  width: 157px;
+  height: 56px;
+}
+.english1 {
+  position: absolute;
+  top: 15px;
+  left: 228px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inknut-antiqua);
+}
+.image-7-icon,
+.landingpage-child {
+  position: absolute;
+  left: 443px;
+  width: 77px;
+}
+.landingpage-child {
+  top: 16px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  height: 72px;
+}
+.image-7-icon {
+  top: 11px;
+  height: 77px;
+  object-fit: cover;
+}
+.landingpage-item {
+  position: absolute;
+  top: 935px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 540px;
+  height: 89px;
+}
+.image-10-icon,
+.image-8-icon,
+.image-9-icon {
+  position: absolute;
+  top: 939px;
+  left: 34px;
+  width: 57px;
+  height: 49px;
+  object-fit: cover;
+}
+.image-10-icon,
+.image-9-icon {
+  top: 941px;
+  left: 243px;
+  width: 54px;
+  height: 43px;
+}
+.image-10-icon {
+  top: 939px;
+  left: 433px;
+  width: 56px;
+  height: 49px;
+}
+.courses1 {
+  left: 29px;
+}
+.courses1,
+.progress,
+.words {
+  position: absolute;
+  top: 996px;
+  font-weight: 500;
+}
+.words {
+  left: 245px;
+  display: inline-block;
+  width: 53px;
+  height: 17px;
+}
+.progress {
+  left: 423px;
+}
+.landingpage-inner {
+  position: absolute;
+  top: 113px;
+  left: 0;
+  width: 540px;
+  height: 5px;
+  object-fit: contain;
+}
+.landingpage {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
